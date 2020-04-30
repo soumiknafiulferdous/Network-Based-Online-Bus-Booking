@@ -1,0 +1,12 @@
+SMAP
+ticket_005fcheck_jsp.java
+JSP
+*S JSP
+*F
++ 0 ticket_check.jsp
+ticket_check.jsp
+*L
+1,58:44
+59:102,4
+60,59:106
+*E

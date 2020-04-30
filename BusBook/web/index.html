@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .container {
+                position: relative;
+            }
+
+            .center {
+                position: absolute;
+                left: 0;
+                top: 6%;
+                width: 100%;
+                text-align: center;
+                font-size: 18px;
+            }
+            h1{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 50px;
+                color: maroon;
+            }
+            h2{
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 20px;
+                color: maroon;
+            }
+
+
+            img { 
+                width: 100%;
+                height: auto;
+                opacity: 0.6;
+            }
+            .button {
+                background-color: #4CAF50; /* Green */
+                border: none;
+                color: white;
+                padding: 16px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                margin: -624px 2px;
+                -webkit-transition-duration: 0.4s; /* Safari */
+                transition-duration: 0.4s;
+                cursor: pointer;
+                position:relative;
+                top: -798px;
+                left: 575px;
+            }
+            .button1:hover {
+                background-color: green;
+                color: white;
+
+            }
+            .button2:hover {
+                background-color: green;
+                color: white;
+            }
+            .button3:hover {
+                background-color: green;
+                color: white; 
+
+            }
+        </style>
+    </head>
+    <body>
+
+        <div class="container">
+            <img src="main.jpg" alt="Cinque Terre" width="1000" height="300">
+            <div class="center"><h1>Online Bus Booking</h1>
+                <h2>Book your bus NOW!</h2></div>
+            <form action="" method="get">
+                <button class="button button1" type="submit" formaction="register.jsp">Sign Up</button>
+
+                <button class="button button2" type="submit" formaction="login.jsp">Login</button>
+
+                <button class="button button3" type="submit" formaction="admin_home.jsp">Admin</button>
+            </form>
+
+        </div>
+    </body>
+</html>
