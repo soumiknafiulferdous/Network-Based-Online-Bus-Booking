@@ -16,7 +16,7 @@ That’s why, ‘Online Bus Booking System’ is developed where the customers c
 
 ## Languages
 
-Programming Language: Servlet in Java
+Programming Language: Servlets in Java 
 Database: MySQL
 
 
