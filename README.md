@@ -12,7 +12,7 @@ With a growth in customers comes increased demands on bus counter, longer wait t
 
 The main objective is to give facility to the customers to reserve seats, select different types of routes (source and destination) and book tickets on website. It is a secure and quick reservation system. It preserves all customer details, bus details, reservation details.
 
-That’s why, ‘Online Bus Booking System’ is developed where the customers can book bus tickets easily from anywhere at any time and the burden of the bus counters will reduce. 
+That’s why, Online Bus Booking System is developed where the customers can book bus tickets easily from anywhere at any time and the burden of the bus counters will reduce. 
 
 ## Languages
 
