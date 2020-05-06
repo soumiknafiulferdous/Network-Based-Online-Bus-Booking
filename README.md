@@ -2,7 +2,7 @@
 
 ## Overview
 
-Online Bus Booking system is a website which allows a potential customer to book and pay for the seat in a bus directly through the website. That means, from the moment a customer decides that he/she will book a bus then choosing a date, picking a time and paying for the booking, everything will be handled online. It will greatly reduce the workload on staffs and remove the opportunity for mismanagement.
+Online Bus Booking system is a website which allows a potential customer to book and pay for the seat in a bus directly through the website. That means, from the moment a customer decides that he/she will book a bus then choosing a date, picking a time and paying for the booking, everything will be handled online. It will greatly reduce the workload on staffs and remove the opportunity of mismanagement.
 
 With the growth of modern civilization, the population of our country is growing rapidly and the service like transportation is in great demand. People are also getting very busy now a days and they like to get a quick and digital service in all sectors. Online bus booking system creates a convenient way of selling and buying tickets and make our life easier and trouble free.
 
