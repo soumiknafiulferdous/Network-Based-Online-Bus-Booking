@@ -29,4 +29,4 @@ Database: MySQL
 4. The passengers can register to the system.
 5. Passengers can also login to the system.
 6. Users can see the bus details and check the available seats in the bus.
-7. The passengers can select a bus, source, destination, seats and book a ticket.
+7. The passengers can select a bus, source, destination, number of seats and book a ticket.
