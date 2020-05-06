@@ -8,7 +8,7 @@ With the growth of modern civilization, the population of our country is growing
 
 ## Motivation
 
-When the number of customers is rising, it increases the demands of tickets and waiting time on the bus counters as well. There is also more chances of mistakes in the bookings. The stuffs of the bus counters need to spent more time for sorting and manually records each individual booking which is really an inefficient system. Also, the customers have to go to the bus counters and have to stand in a line for a long time. It is intolerable when it is in the eve of any festival specially on Eid in our country. Online bus booking system, on the other hand, removes all the stress, strain, mistakes and lessen the time out of arranging the bookings. Once set up, admin can control every aspects of the booking procedure and allow the customers to quickly book the tickets in online. 
+When the number of customers is rising, it increases the demands of tickets and waiting time on the bus counters as well. There is also more chances of mistakes in the bookings. The stuffs of the bus counters need to spent more time for sorting and manually records each individual booking which is really an inefficient system. Also, the customers have to go to the bus counters and have to stand in a queue for a long time. It is intolerable when it is in the eve of any festival specially on Eid in our country. Online bus booking system, on the other hand, removes all the stress, strain, mistakes and lessen the time out of arranging the bookings. Once set up, admin can control every aspects of the booking procedure and allow the customers to quickly book the tickets in online. 
 
 ## Objective  
 
