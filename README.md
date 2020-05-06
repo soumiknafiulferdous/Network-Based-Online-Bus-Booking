@@ -12,7 +12,7 @@ When the number of customers is rising, it increases the demands of tickets and 
 
 ## Objective  
 
-The main objective of this website is to give some extra facilities to the customers in reservation of seats, selecting routes (source and destination) and booking tickets in online. It is a secure and quick reservation system. It preserves all the details of customers, buses and reservations. That’s why, online bus booking system is developed where the customers can book bus tickets easily from anywhere at any time and the burden of the bus counters will be reduced. 
+The main objective of this website is to give some extra facilities to the customers in reservation of seats, selecting routes (source and destination) and booking tickets in online. It is a secure and quick reservation system. It preserves all the details of customers, buses and reservations. That’s why, online bus booking system is developed where the customers can book bus tickets easily from anywhere at anytime and the burden of the bus counters will be reduced. 
 
 ## Requrements
 
