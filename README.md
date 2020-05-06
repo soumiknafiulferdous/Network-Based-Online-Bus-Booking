@@ -24,7 +24,7 @@ Database: MySQL
 ## Features
 
 1. There is an Admin and the Admin can login to the system.
-2. Admin can insert and show the information of bus no, source and destination, number of seats, date and time to the database.
+2. Admin can insert the information of bus no, source and destination, number of seats, date and time to the database.
 3. Admin can see the passenger’s information.
 4. The passengers can register to the system.
 5. Passengers can also login to the system.
