@@ -1,8 +1,10 @@
 # Network Based Online Bus Booking with Servlets
 
-## Introduction  
+## Overview
 
 Online Bus Booking system is a web-based application which allows a potential customer to book and pay for an activity or service directly through the website. That means, from the moment a customer decides that he/she will book a bus then choosing a date, picking a time and paying for the booking, everything is handled online. It will greatly reducing the workload on staff and removing the opportunity for mismanagement.
+
+With the growth of modern civilization, the population of our country is growing rapidly and the service like transportation are in great demand. People are also getting very busy now a days and like to get a quick and digital service in all sectors. Online Bus Booking create a new way of selling and buying the tickets and will make our life easier and trouble free.
 
 ## Motivation
 
@@ -31,7 +33,5 @@ Database: MySQL
 6. Users can see the bus details and check the available seats in the bus.
 7. The passengers can select a bus, source, destination, seats and book a ticket.
 
-## Conclusion
 
-With the growth of modern civilization, the population of our country is growing rapidly and the service like transportation are in great demand. People are also getting very busy now a days and like to get a quick and digital service in all sectors. 
-So, Online Bus Booking create a new way of selling and buying the tickets and will make our life easier and trouble free.
+
