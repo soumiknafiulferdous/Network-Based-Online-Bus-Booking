@@ -46,6 +46,6 @@ Ticket Booking Page:
 
 ![4](https://user-images.githubusercontent.com/30154496/82126854-3caab180-97d1-11ea-8edd-adb9a831dfee.jpg)
 
-Ticket Confirmation page:
+Ticket Confirmation Page:
 ![6](https://user-images.githubusercontent.com/30154496/82126691-10426580-97d0-11ea-8644-55c04e46ca22.jpg)
 
