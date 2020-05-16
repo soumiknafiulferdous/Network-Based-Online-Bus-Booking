@@ -36,7 +36,7 @@ Database: MySQL
 Homepage:
 ![1](https://user-images.githubusercontent.com/30154496/82126687-0caede80-97d0-11ea-9413-aca4e9d7a52b.jpg)
 
-Sign-up page:
+Sign-up Page:
 ![2](https://user-images.githubusercontent.com/30154496/82126688-0e78a200-97d0-11ea-9bfa-a27ba981f8e9.jpg)
 
 Login Page:
