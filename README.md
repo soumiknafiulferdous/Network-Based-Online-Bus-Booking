@@ -30,3 +30,21 @@ Database: MySQL
 5. Passengers have to login into the system to enjoy the service.
 6. Users can see the bus details and check the available seats in the bus.
 7. The passengers can select a bus, source, destination, number of seats and book a ticket.
+
+## Screenshots
+
+Homepage:
+![1](https://user-images.githubusercontent.com/30154496/82126687-0caede80-97d0-11ea-9413-aca4e9d7a52b.jpg)
+
+Sign-up page:
+![2](https://user-images.githubusercontent.com/30154496/82126688-0e78a200-97d0-11ea-9bfa-a27ba981f8e9.jpg)
+
+Login Page:
+![3](https://user-images.githubusercontent.com/30154496/82126689-0f113880-97d0-11ea-9f4f-8b96803c0064.jpg)
+
+Ticket Booking Page:
+![4](https://user-images.githubusercontent.com/30154496/82126690-0f113880-97d0-11ea-91cb-a980a4faa185.jpg)
+
+Ticket Confirmation page:
+![6](https://user-images.githubusercontent.com/30154496/82126691-10426580-97d0-11ea-8644-55c04e46ca22.jpg)
+
