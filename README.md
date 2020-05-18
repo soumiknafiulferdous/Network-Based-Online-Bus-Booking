@@ -20,6 +20,7 @@ Programming Language: Java Servlets, Java Server Pages (JSP)
 
 Database: MySQL
 
+IDE: NetBeans
 
 ## Features
 
