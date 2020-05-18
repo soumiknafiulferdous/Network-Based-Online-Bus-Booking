@@ -16,7 +16,7 @@ The main objective of this website is to give some extra facilities to the custo
 
 ## Requirements
 
-Programming Language: Servlets in Java 
+Programming Language: Servlets in Java, Java Server Pages (JSP) 
 
 Database: MySQL
 
