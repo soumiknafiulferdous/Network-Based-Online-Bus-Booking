@@ -22,6 +22,8 @@ Database: MySQL
 
 IDE: NetBeans
 
+Server: Apache Tomcat
+
 ## Features
 
 1. There will be an admin in the website and the admin can login into the system.
